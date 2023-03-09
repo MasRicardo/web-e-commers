@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: montserrat;
+}
+.box-login {
+	width: 2000px;
+	height: 100px;
+	background: pink;
+	position: relative;
+	left: -20px;
+}
+.input-control {
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	position: relative;
+	left: -20px;
+	position: relative;
+	left: 1200px;
+	top: -100px;
+	border-radius: 25px;
+}
+h1 {
+	color: #BF00FF;
+	text-align: center;
+	position: relative;
+	top: -75px;
+	left: -730px;
+}
+img.tengah{
+	position: relative;
+	left: 40px;
+}
+.pass {
+	position: relative;
+	left: 1130px;
+	top: -70px;
+	font-size: 18px;
+}

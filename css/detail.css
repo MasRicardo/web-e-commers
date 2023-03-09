@@ -1,0 +1,78 @@
+.popo{
+	float: right;
+	position: relative;
+	left: 230px;
+	bottom: 600px;
+	font-size: 70px;
+}
+.drop {
+  position: relative;
+  display: inline-block;
+  float: right;
+  position: relative;
+  left: 415px;
+  bottom: 400px;
+  font-weight: bold;
+
+}
+
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  position: relative;
+  float: right;
+}
+
+.col-75{
+	position: relative;
+	float: right;
+	left: 260px;
+	bottom: 500px;
+}
+
+.pindah{
+	position: relative;
+	float: right;
+	position: relative;
+	left: 500px;
+	bottom: 400px;
+}
+.btn{
+	position: relative;
+	float: right;
+	right: 245px;
+	bottom: 160px;
+}
+
+.col{
+	position: relative;
+	float: right;
+	left: 630px;
+	bottom: 550px;
+	background-color: rgba(255, 84, 111, 0.2);
+	border-radius: 5px;
+	width: 600px;
+	height: 200px;
+}
+
+.dropdowncontent {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.drop:hover .dropdowncontent {
+  display: block;
+}
+.tombol{
+	position: relative;
+	top:430px;
+	right: 250px;
+}

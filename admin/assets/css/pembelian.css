@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	position: relative;
+	left: 20px;
+	font-family: serif;
+}
+table{
+	width: 100%;
+}
+th{
+	text-align: center;
+	padding: 15px;
+}
+td{
+	padding: 15px;
+	text-align: left;
+}
+td a:link, td a:visited {
+  background: linear-gradient(120deg, #c22ed0, #5ffae0);
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+td a:hover, td a:active {
+  background: violet;
+
+}
